@@ -80,5 +80,16 @@
       "https://www.youtube.com/"
       
     ]
-  }
-]
+  },
+  {
+    "name": "Manasa",
+    "skill": "C++, Objective-C, R",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/c++",
+      "https://c++.info/"
+      "https://www.tutorialspoint.com/objective_c/index.htm"
+      "https://www.r-bloggers.com/2020/01/15-resources-to-get-started-with-r/"
+
+    ]
+   },
+
