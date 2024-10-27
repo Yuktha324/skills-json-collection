@@ -72,12 +72,13 @@
     ]
   },
   {
-    "name": "Meghana",
-    "skill": "React javascript",
+    "name": "Manasa",
+    "skill": "React javascript ,  R",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/React JavaScript",
       "https://react javascript.info/"
       "https://www.youtube.com/"
+      "https://www.r-bloggers.com/2020/01/15-resources-to-get-started-with-r/#google_vignette"
       
     ]
   }
